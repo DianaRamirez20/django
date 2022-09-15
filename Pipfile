@@ -7,7 +7,7 @@ name = "pypi"
 django = "*"
 django-cors-headers = "*"
 mysqlclient = "*"
-decouple = "*"
+python-decouple = "*"
 
 [dev-packages]
 
